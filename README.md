@@ -7,8 +7,6 @@ Hii!!! saya Sifana Candra A. Mukti<br>Saya seorang siswa berjurusan Teknik Kompu
 # 🏷️ Badge:
 - [Become Cisco Engineer - 4th [IDN Academy] - (2022)](https://drive.google.com/file/d/1eCdicSrPqcUE9uVJFgrUjhk0ft_4PfA5/view?usp=drive_link)
 
-Lencana OhSINT dari TryHackMe menandakan keberhasilan saya dalam menguasai keterampilan Open Source Intelligence, termasuk pengumpulan dan analisis informasi dari sumber terbuka.
-
 # 🚩 Certification:
 - [MikroTik Certified Routing Engineer [MTCRE] - (2023)]([https://app.kajabi.com/certificates/96a732d2](https://drive.google.com/file/d/1dl9-dQQjF3ljsNIxp97SDot1ruKOLVZx/view?usp=drive_link))
 - [Fortinet Networking Fundamental - (2023)]([https://www.credential.net/ec968e08-dae9-4e51-93f7-e57b725977f0](https://drive.google.com/file/d/1oro58wP0nOzrkkySaYbNXDaaPedeRJY5/view?usp=drive_link))
